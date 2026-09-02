@@ -1,20 +1,16 @@
 ## Summary
 
-Brief description of this PR.
-
 ## Changes
 
-- 
+-
 
-## Type of Change
+## Type
 
 - [ ] Bug fix
 - [ ] New feature
-- [ ] Documentation update
-- [ ] Refactoring
+- [ ] Documentation
 
 ## Checklist
 
-- [ ] I have read CONTRIBUTING.md
-- [ ] My changes follow the code style
-- [ ] I have tested my changes
+- [ ] Read CONTRIBUTING.md
+- [ ] Tested changes

@@ -6,11 +6,8 @@ labels: enhancement
 assignees: ''
 ---
 
-## Problem
-A clear description of the problem.
+**Problem:**
 
-## Proposed Solution
-...
+**Proposed solution:**
 
-## Alternatives Considered
-...
+**Alternatives considered:**
