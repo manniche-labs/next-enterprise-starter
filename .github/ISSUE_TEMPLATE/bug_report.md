@@ -1,21 +1,19 @@
 ---
 name: Bug Report
-about: Something is broken
+about: Something is not working
 title: "[Bug] "
 labels: bug
 assignees: ''
 ---
 
-## Describe the Bug
-A clear description of what the bug is.
+**Describe the bug:**
 
-## To Reproduce
-1. ...
-2. ...
+**Steps to reproduce:**
+1.
+2.
 
-## Expected Behavior
-...
+**Expected behavior:**
 
-## Environment
-- Node.js version:
+**Environment:**
+- Node.js:
 - OS:
