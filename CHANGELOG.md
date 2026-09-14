@@ -2,7 +2,7 @@
 
 Follows [Keep a Changelog](https://keepachangelog.com).
 
-## [Unreleased] - 2026-09-14
+## [Unreleased]
 
 ### Added
 - Example `/about` page that sets its title and description with `generateMetadata()` (#2)

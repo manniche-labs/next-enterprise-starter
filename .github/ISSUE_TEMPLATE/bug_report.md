@@ -8,7 +8,10 @@ assignees: ""
 
 **Describe the bug:**
 
-**Steps to reproduce:** 1. 2.
+**Steps to reproduce:**
+
+1. First step
+2. Second step
 
 **Expected behavior:**
 
