@@ -1,4 +1,4 @@
-import { ArrowRight, CheckCircle2, ShieldCheck, Zap, Layers, Globe } from "lucide-react";
+import { ArrowRight, ShieldCheck, Zap, Layers, Globe } from "lucide-react";
 
 export default function Home() {
   return (
