@@ -7,12 +7,14 @@ In the interest of fostering an open and welcoming environment, we pledge to mak
 ## Our Standards
 
 **Positive behavior includes:**
+
 - Using welcoming and inclusive language
 - Being respectful of differing viewpoints
 - Gracefully accepting constructive criticism
 - Focusing on what is best for the community
 
 **Unacceptable behavior includes:**
+
 - Trolling, insulting, or derogatory comments
 - Public or private harassment
 - Publishing others private information without permission
@@ -28,4 +30,4 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 
 ---
 
-*manniche labs • [mikkelmanniche.dk](https://mikkelmanniche.dk)*
+_manniche labs • [mikkelmanniche.dk](https://mikkelmanniche.dk)_
